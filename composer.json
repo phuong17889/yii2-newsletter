@@ -1,13 +1,10 @@
 {
     "name": "saurabhd/yii2-newsletter",
- 
     "type": "yii2-extension",
-
     "description": "Flexible newsletter template for different events for yii2",
     "keywords": ["yii2", "newsletter", "event", "helper" ,"email" ,"template" , "saurabhd"],
-    "license": "MIT",
+    "license": "BSD 3-Clause",
     "homepage": "https://github.com/saurabhd/yii2-newsletter",
-    
     "authors": [
         {
             "name": "saurabh dhariwal",
@@ -15,11 +12,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
-        "yiisoft/yii2": "*",
+        "yiisoft/yii2": "*"
     },
-    
     "autoload": {
         "psr-4": {
             "yii\\newsletter\\": ""
