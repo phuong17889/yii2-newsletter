@@ -6,7 +6,7 @@
     "description": "Flexible newsletter template for different events for yii2",
     "keywords": ["yii2", "newsletter", "event", "helper" ,"email" ,"template" , "saurabhd"],
     "license": "MIT",
-    "homepage": "https://http://www.yiiframework.com/extension/yii2-newsletter",
+    "homepage": "https://github.com/saurabhd/yii2-newsletter",
     
     "authors": [
         {
