@@ -1,6 +1,6 @@
 {
     "name": "saurabhd/yii2-newsletter",
-
+ 
     "type": "yii2-extension",
 
     "description": "Flexible newsletter template for different events for yii2",
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "saurabh dhariwal",
-            "email": "amigo.cobos@gmail.com"
+            "email": "saurabhdhariwal.com@gmail.com"
         }
     ],
     
