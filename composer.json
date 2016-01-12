@@ -1,0 +1,28 @@
+{
+    "name": "saurabhd/yii2-newsletter",
+
+    "type": "yii2-extension",
+
+    "description": "Flexible newsletter template for different events for yii2",
+    "keywords": ["yii2", "newsletter", "event", "helper" ,"email" ,"template" , "saurabhd"],
+    "license": "MIT",
+    "homepage": "https://http://www.yiiframework.com/extension/yii2-newsletter",
+    
+    "authors": [
+        {
+            "name": "saurabh dhariwal",
+            "email": "amigo.cobos@gmail.com"
+        }
+    ],
+    
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-swiftmailer": "~2.0",
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "yii\\newsletter\\": ""
+        }
+    }
+}
