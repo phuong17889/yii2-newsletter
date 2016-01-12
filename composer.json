@@ -3,7 +3,7 @@
     "type": "yii2-extension",
     "description": "Flexible newsletter template for different events for yii2",
     "keywords": ["yii2", "newsletter", "event", "helper" ,"email" ,"template" , "saurabhd"],
-    "license": "BSD 3-Clause",
+    "license": "MIT",
     "homepage": "https://github.com/saurabhd/yii2-newsletter",
     "authors": [
         {
