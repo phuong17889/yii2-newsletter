@@ -1,5 +1,6 @@
 {
     "name": "saurabhd/yii2-newsletter",
+    "version": "dev-master",
     "type": "yii2-extension",
     "description": "Flexible newsletter template for different events for yii2",
     "keywords": ["yii2", "newsletter", "event", "email" ,"template" , "saurabhd"],
