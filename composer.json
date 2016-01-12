@@ -2,7 +2,7 @@
     "name": "saurabhd/yii2-newsletter",
     "type": "yii2-extension",
     "description": "Flexible newsletter template for different events for yii2",
-    "keywords": ["yii2", "newsletter", "event", "helper" ,"email" ,"template" , "saurabhd"],
+    "keywords": ["yii2", "newsletter", "event", "email" ,"template" , "saurabhd"],
     "license": "MIT",
     "homepage": "https://github.com/saurabhd/yii2-newsletter",
     "authors": [
@@ -11,6 +11,7 @@
             "email": "saurabhdhariwal.com@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
