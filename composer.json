@@ -11,8 +11,8 @@
             "email": "saurabhdhariwal.com@gmail.com"
         }
     ],
-    "prefer-stable": true,
-    "require": {
+    "minimum-stability": "dev",
+    "require-dev": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
